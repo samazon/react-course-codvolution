@@ -4,11 +4,11 @@ const JSX = () => {
   /* The below return statement is JSX - JavaScript XML*/
   /* This allows us to write HTML in JS */
 
-  return (
+  /* return (
     <div className="dummyClass">
       <h1>This is JSX Syntax</h1>
     </div>
-  );
+  ); */
   /* Return Statement without JSX */
   return React.createElement(
     'div',
